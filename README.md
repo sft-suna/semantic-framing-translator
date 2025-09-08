@@ -18,12 +18,19 @@ During the hackathon, we significantly updated SFT:
 - Structured outputs into consistent 7–9 section reflections
 
 ## Testing Instructions
-Since SFT runs as a **Custom GPT with uploaded knowledge files**, here is how you can test it:
-1. Clone this repository
-2. Review the sample knowledge files (`/knowledge/`)
-3. Upload them to a Custom GPT in OpenAI’s interface
-4. Set the instructions (provided in `/instructions/`)
-5. Run prompts (examples in `/examples/`)
+You can directly test Semantic Framing Translator (SFT) here:
+https://www.stekkey.com/sft
+
+The demo site includes:
+
+- Emotional framing analysis
+- State reflection
+- Resonance with art and quotes
+- Gentle action prompts
+- Photo-based reflection
+
+Note: This GitHub repository contains documentation only.
+Core knowledge files and datasets remain private for confidentiality reasons.
 
 ## Disclaimer
 This repository contains only **testing instructions, example prompts, and lightweight sample knowledge files**.  
